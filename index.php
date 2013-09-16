@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html lang ="en">
 
-<div id="bg">
-  <img src="images/jumpingbeach.jpg" alt="">
-</div>
 
 <head>
 <meta charset="utf-8"/>
 <title>Amira's Amazing P1 Project</title>
 <link rel = "stylesheet" type ="text/css" href="index.css"/>
+
+<style>
+html {background: url(images/jumpingbeach.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+</style>
+
 </head>
 
 <body>
