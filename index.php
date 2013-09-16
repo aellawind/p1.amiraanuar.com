@@ -2,7 +2,7 @@
 <html lang ="en">
 
 <div id="bg">
-  <img src="images/bg.jpg" alt="">
+  <img src="images/jumpingbeach.jpg" alt="">
 </div>
 
 <head>
