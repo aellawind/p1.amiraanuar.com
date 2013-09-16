@@ -33,10 +33,9 @@ body {
 }
 
 html {
-	background: url(images/jumpingbeach.jpg) no-repeat center center
+	background: url(jumpingbeach.JPG) no-repeat center center
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-}
 }
