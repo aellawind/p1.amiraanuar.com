@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana, Arial, Helevtiva, sans-serif;
-	font-size: 12px;
+	font-size: 20px;
 	color: #000050;
 }
 
@@ -23,7 +23,20 @@ a:hover {
 	text-decoration:none;
 	background-color: #CCCCCC;}
 
+body {
+	text-align: center;
+}
+
 #page-wrap {
 	width: 800px;
 	margin: 0 auto;
+}
+
+html {
+	background: url(images/jumpingbeach.jpg) no-repeat center center
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 }

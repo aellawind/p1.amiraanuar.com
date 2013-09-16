@@ -7,6 +7,8 @@
 <link rel = "stylesheet" type ="text/css" href="index.css"/>
 </head>
 
+<body>
+	<div id="page-wrap">
 <h1>Welcome to P1</h1>
 
 <img src = 'http://placekitten.com/200/200'>'
@@ -17,7 +19,13 @@
 <p>A small bio of myself</p>
 <p>The name of the text editor I am using: Sublime Text 2</p>
     
-    
+<footer>
+	<p>Copyright 2013 Amira Anuar</p>
+</footer>
+	
+	</div>
+</body>
+
     
 
 </html>
