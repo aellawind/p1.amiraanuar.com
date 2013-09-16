@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang ="en">
 
+<div id="bg">
+  <img src="images/bg.jpg" alt="">
+</div>
+
 <head>
 <meta charset="utf-8"/>
 <title>Amira's Amazing P1 Project</title>
