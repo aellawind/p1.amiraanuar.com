@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>Amira's Amazing P1 Project</title>
-<link rel = "stylesheet" type ="text/css" href="index.css"/>
+<link rel = "stylesheet" type ="text/css" href="css/index.css"/>
 
 
 </head>
