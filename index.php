@@ -17,7 +17,9 @@
 <h1>Welcome to P1</h1>
 
 <img src = 'http://placekitten.com/200/200'>'
-
+<img src = './images/fire.jpg'>
+<img src = 'jumpingbeach.jpg'; height = '40px' width = '40px'>
+<img src = jumpingbeach.jpg>
 <h2>image plztesting this out AGAIN</h2>    
 	<p> this is an awesasdfafsdfafsome paragraph of awesomeness</p>
 <p>My name: Amira asdfsafsafaAnuar</p>
