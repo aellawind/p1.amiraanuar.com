@@ -9,7 +9,7 @@ font-size: 14px;
 color: #0000BB;}
 
 body {
-	background: url('./images/flowers.jpg') no-repeat center center fixed; 
+	background: url('http://imageshack.us/a/img10/7141/cs8a.jpg') no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -39,7 +39,7 @@ body {
 
 #div1
 {
-width:600px;
+width:300px;
 height:400px;
 position:absolute;
 left:50%;
