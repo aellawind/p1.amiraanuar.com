@@ -1,58 +1,46 @@
 body {
-	background-image: url('http://imageshack.us/a/img10/7141/cs8a.jpg');
-	no-repeat center center fixed; 
-}
-
-p {
-	font-family: Verdana, Arial, Helevtiva, sans-serif;
-	font-size: 20px;
-	color: #000050;
-}
-
-h1 {font-family: Arial, Helvetiva, sans-serif;
-font-size: 14px;
-color: #0000BB;}
-
-
-a:link {
-	color: #000099;
-	text-decoration: underline;}
-
-a:visited {
-	color: #666666;}
-
-a:hover {
-	text-decoration:none;
-	background-color: #CCCCCC;}
-
-body {
+	background: url('/images/flowers.JPG') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	text-align: center;
 }
 
-#page-wrap {
-	width: 800px;
-	margin: 0 auto;
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000050;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: Impact, Charcaol, sans-serif;
+	font-size: 18px;
+	color: #270672;
+}
+
+h2 {
+	font-family: Charcoal, sans-serif;
+	font-size: 14px;
+	color: 4212AF;
 }
 
 
-#div1
-{
-width:300px;
-height:400px;
+
+
+#welcome {
+width:520px;
+height:390px;
 position:absolute;
 left:50%;
 top:50%;
-margin:-200px 0 0 -300px;
+margin:-210px 0 0 -260px;
+padding: 15px;
 border:0px;
-padding:35px;
-background-color: #4867D6;
-background:rgba(255,255,255,0.7);
+background:rgba(168,197,255,0.8);
 background-origin:border-box;
 -moz-box-shadow: 30px 30px 95px #000000;
 -webkit-box-shadow: 30px 30px 95px #000000;
 box-shadow: 20px 20px 85px #000000;
-}
-#div2
-{
-background-origin:content-box;
 }
