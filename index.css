@@ -9,7 +9,7 @@ font-size: 14px;
 color: #0000BB;}
 
 body {
-	background: url(images/flowers.jpg) no-repeat center center fixed; 
+	background: url(/images/flowers.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,6 +47,7 @@ top:50%;
 margin:-200px 0 0 -300px;
 border:0px;
 padding:35px;
+background-color: #4867D6;
 background:rgba(255,255,255,0.7);
 background-origin:border-box;
 -moz-box-shadow: 30px 30px 95px #000000;

@@ -18,7 +18,7 @@
 
 <img src = 'http://placekitten.com/200/200'>'
 
-<h2>testing this out AGAIN</h2>    
+<h2>image plztesting this out AGAIN</h2>    
 	<p> this is an awesasdfafsdfafsome paragraph of awesomeness</p>
 <p>My name: Amira asdfsafsafaAnuar</p>
 <p>A small bio of myself</p>
