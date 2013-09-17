@@ -18,7 +18,7 @@
 			<h1>Welcome to Amira Anuar's P1 Project</h1>
 			<h2>Enjoy the simple CSS3/HTML5!</h2>
 		
-			<img src = "/images/jumpingbeach.JPG" alt="This is a photo of me jumping" width=160px height=120px>
+			<img src = "/images/jumpingbeach.JPG" alt="This is a photo of me jumping" width="160" height="120"/>
 		
 			<p>Hi! I'm Amira, and I'm currently a candidate for the Extension School 
 				ALM in IT program. I know very basic HTML/CSS (from the old days in middle school
